@@ -28,8 +28,8 @@ class Scanner:
         Parameters
         ----------
         char: str
-        	Character to be checked
-        	
+                Character to be checked
+
         Returns
         -------
         Boolean value
@@ -43,8 +43,8 @@ class Scanner:
         Parameters
         ----------
         char: str
-        	Character to be checked
-        	
+                Character to be checked
+
         Returns
         -------
         Boolean value
@@ -58,8 +58,8 @@ class Scanner:
         Parameters
         ----------
         char: str
-        	Character to be checked
-        	
+                Character to be checked
+
         Returns
         -------
         Boolean value
@@ -73,8 +73,8 @@ class Scanner:
         Parameters
         ----------
         char: str
-        	Character to be checked
-        	
+                Character to be checked
+
         Returns
         -------
         Boolean value
@@ -158,7 +158,7 @@ Hint: float numbers consists in an optional number followed by a decimal point
         Parameters
         ----------
         expr: str
-        	
+
         Returns
         -------
         A list of tokens

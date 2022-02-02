@@ -1,5 +1,6 @@
 from sys import exit
 from src.ast import NumberTree
+
 # from src.token import print_tokens
 from src.parser import Parser
 from src.scanner import Scanner

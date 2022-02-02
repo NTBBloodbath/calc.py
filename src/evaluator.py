@@ -12,8 +12,8 @@ class Evaluator:
 
         Parameters
         ----------
-        ast: 
-        	Calculator AST        	
+        ast:
+                Calculator AST
 
         Returns
         -------
